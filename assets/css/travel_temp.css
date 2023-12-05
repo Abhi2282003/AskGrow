@@ -381,80 +381,14 @@ body {
     letter-spacing: 5px;
 }
 /* Travel Vlog Summary section ends */
+/* ... (other CSS code) ... */
 
-/*hero section starts*/
-.hero {
-    background-color: white;
-    display: flex;
-    height: 100vh;
-}
-.hero .item1 {
-    width:50%;
-    background: url('../images/travel/hero.svg');
-    background-repeat: no-repeat;
-    background-position: 60% 35%;
-    background-size: 350px;
-}
-.hero .item2 {
-    background-color: white; 
-    width: 50%;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    font-weight: bold;
-    color: #343a40;
-}
-.hero .item2 span {
-    color: rgb(121, 59, 221);
-}
-.hero .item2 h1 {
-    font-weight: bold;
-    font-size: 28px;
-}
-.hero .item2 p {
-    letter-spacing: 1px;
-    color: #585c61;
+
+.section1 {
     text-align: center;
 }
 
-@media only screen and (max-width: 950px) {
-    .hero .item1 {
-        background-size: 300px;
-        background-position: 10% 35%;
-    }
-    .hero .item2 p {
-        letter-spacing: 1px;
-    }
+.h2 {
+    text-align: center;
 }
-@media only screen and (max-width: 700px) {
-
-    .container_summary {
-        margin-top: 5px;
-        margin-bottom: 5px;
-    }
-    .div_quote {
-        margin-bottom: 70px;
-        letter-spacing: 2px;
-    }
-
-    .hero {
-        flex-direction: column;
-        justify-content:space-evenly;
-        height: 80vh;
-    }
-    .hero .item1 {
-        background-position: 60% 0%;
-        background-size: 300px;
-        height: 40%;
-        width: 100%;
-    }
-    .hero .item2 {
-        width: 100%;
-    }
-
-    .el__text {
-        font-size: 25px;
-    }
-}
-/*hero section ends*/
+/* ... (other CSS code) ... */
