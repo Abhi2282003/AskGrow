@@ -119,11 +119,11 @@ let footer = $(`
 <footer class="footer sticky-bottom"  style="background-color:#2b2a2a;">
   <div class="p-4">
     <div class="container-fluid quote-container">
-      <div class="quotes"    style="text-align:center;">
-      <!--SVG code for quote-left icon-->
-      <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" width="1.5em" height="1.5em" style="-ms-transform: rotate(360deg); -webkit-transform: rotate(360deg); transform: rotate(360deg);" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path d="M7 21a4 4 0 0 1-4-4c0-1.473 1.333-6.14 4-14h2L7 13a4 4 0 1 1 0 8zm10 0a4 4 0 0 1-4-4c0-1.473 1.333-6.14 4-14h2l-2 10a4 4 0 1 1 0 8z" fill="#fff" fill-rule="evenodd"/></svg>
-      </div>
-      <p class="tag" >Develop a passion for learning. If you do, you will never cease to grow.</p>
+     
+      <p class="tag" >About us<br>
+We are AskGrow, incorporated in the year 2022 with the vision to change every Indian Tenant into a House Owner by providing Housing Loans to buy their dream Home and also to provide extended support to Emerging Businesses by Empowering them with Business Loans to enhance their Business Set up. Our Firm is promoted by Passionate young Bankers who have been serving the Finance Industry for more than a decade. We understand the requirements of Banks/NBFC's and provide Quality leads to Banks with complete Credit assessment report done by our Internal Expert team, which helps Banks/NBFC's to process the Leads in one go.
+
+</p>
     </div>
 
     
