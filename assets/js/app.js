@@ -120,9 +120,8 @@ let footer = $(`
   <div class="p-4">
     <div class="container-fluid quote-container">
      
-      <p class="tag" >About us<br>AskGrow, founded in 2022, aims to turn Indian tenants into homeowners with housing loans. We also empower emerging businesses with business loans. Our passionate team of experienced bankers provides quality leads and credit assessments for streamlined processing by banks/NBFCs.
-</p>
-    </div>
+      <p class="tag" >About us<br>
+      AskGrow, founded in 2022, aims to turn Indian tenants into homeowners with housing loans. We also empower emerging businesses with business loans. Our passionate team of experienced bankers provides quality leads and credit assessments for streamlined processing by banks/NBFCs. </div>
 
     
     <div class="container">
