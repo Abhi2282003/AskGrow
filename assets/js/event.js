@@ -5,22 +5,22 @@ $(document).ready(function () {
     {
       title: "Business Manager",
       description: "Fresher / Experienced",
-      image: "/bm.jpg",
+      image: "assets/images/travel/trip1/bm.jpg",
     },
     {
       title: "Credit Manager",
       description: "Fresher / Experienced",
-      image: "/cm.jpg",
+      image: "assets/images/travel/trip1/cm.jpg",
     },
     {
       title: "Sales Manager",
       description: "Fresher / Experienced",
-      image: "/sm.jpg",
+      image: "assets/images/travel/trip1/sm.jpg",
     },
     {
       title: "Relationship Manager",
       description: "Fresher / Experienced",
-      image: "/rm.jpg",
+      image: "assets/images/travel/trip1/rm.jpg",
     },
   ];
 
