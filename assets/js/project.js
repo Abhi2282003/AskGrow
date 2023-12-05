@@ -7,7 +7,7 @@ const projectcards = document.querySelector(".projectcards");
 const projects = [
   {
     title: "Loan Against Property",
-    cardImage: "/a.png",
+    cardImage: "assets/images/travel/trip1/a.png",
     description: "A loan against property(LAP) is a secured loan that is sanctioned against the asset pledged as collateral. This asset can either be an owned land, a house, or any other commercial premises. The asset remains as collateral with the lender until the entire loan against property amount is repaid.",
     tagimg: "a.png",
     Previewlink: "propertyloan.html",
@@ -15,7 +15,7 @@ const projects = [
   },
   {
     title: "Home Loan",
-    cardImage: "/b.png",
+    cardImage: "assets/images/travel/trip1/b.png",
     description: "A home loan is a secured loan that is obtained to purchase a property by offering it as collateral. Home loans offer high-value funding at economical interest rates and for long tenors. They are repaid through EMIs. After repayment, the property's title is transferred back to the borrower.",
     tagimg: "",
     Previewlink: "homeloan.html",
@@ -23,7 +23,7 @@ const projects = [
   },
   {
     title: "Education Loan",
-    cardImage: "/c.jpg",
+    cardImage: "assets/images/travel/trip1/c.jpg",
     description: "An education loan is a sum of money borrowed to finance post-secondary education or higher education-related expenses. Education loans are intended to cover the cost of tuition, books and supplies, and living expenses while the borrower is in the process of pursuing a degree.",
     tagimg: "",
     Previewlink: "educationloan.html",
