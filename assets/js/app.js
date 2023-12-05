@@ -120,9 +120,7 @@ let footer = $(`
   <div class="p-4">
     <div class="container-fluid quote-container">
      
-      <p class="tag" >About us<br>
-We are AskGrow, incorporated in the year 2022 with the vision to change every Indian Tenant into a House Owner by providing Housing Loans to buy their dream Home and also to provide extended support to Emerging Businesses by Empowering them with Business Loans to enhance their Business Set up. Our Firm is promoted by Passionate young Bankers who have been serving the Finance Industry for more than a decade. We understand the requirements of Banks/NBFC's and provide Quality leads to Banks with complete Credit assessment report done by our Internal Expert team, which helps Banks/NBFC's to process the Leads in one go.
-
+      <p class="tag" >About us<br>AskGrow, founded in 2022, aims to turn Indian tenants into homeowners with housing loans. We also empower emerging businesses with business loans. Our passionate team of experienced bankers provides quality leads and credit assessments for streamlined processing by banks/NBFCs.
 </p>
     </div>
 
