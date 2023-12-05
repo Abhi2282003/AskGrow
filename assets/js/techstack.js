@@ -3,25 +3,25 @@ AOS.init();
 const techStackCards = document.querySelector(".techstack-box");
 const techStack = [
   {
-    langImage: "/pune.jpg",
+    langImage: "assets/images/travel/trip1/pune.jpg",
     langName: "PUNE",
     langDesc: "<li> Registered Office: Tanish Orchid Phase 2, Charoli bk Pune- 412105 <li>Corporate Office: 1st Floor Chavan Niwas, Aundh-Ravet BRT Road,<br>Jagtap Dairy, Pune - 411027 <br>Phone: +91-9823939396</li>",
     mapLink: "https://www.google.com/maps?q=Tanish+Orchid+Phase+2,Charoli+bk+Pune-412105"
   },
   {
-    langImage: "/sangli.jpg",
+    langImage: "assets/images/travel/trip1/sangli.jpg",
     langName: "Sangli",
     langDesc: "<li>Address<br>Phone no.</li>",
     mapLink: "https://www.google.com/maps?q=Sangli"
   },
   {
-    langImage: "/kolhapur.jpg",
+    langImage: "assets/images/travel/trip1/kolhapur.jpg",
     langName: "Kolhapur",
     langDesc: "<li>Address <br> Phone no.</li>",
     mapLink: "https://www.google.com/maps?q=Kolhapur"
   },
   {
-    langImage: "/pandharpur.jpg",
+    langImage: "assets/images/travel/trip1/pandharpur.jpg",
     langName: "Pandharpur",
     langDesc: "<li>Address <br> Phone no.</li>",
     mapLink: "https://www.google.com/maps?q=Pandharpur"
