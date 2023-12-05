@@ -43,7 +43,7 @@ const references = [
    {sl1:5,
     name1 : "Mahendra Deshpande",
     designation1 : "Mentor",
-    image1 : "assets/images/travel/trip1/5.png",
+    image1 : "assets/images/travel/trip1/5.jpg",
     message1 : "Has deep knowledge about Corporate Law compliance's, IPR consulting, Due-Diligence, Business organizations. 10+ yrs Experience in Banking and NBFC sector Running two ventures of financial consultancy.Expert in project loans and SMEG loans",
 }
   
