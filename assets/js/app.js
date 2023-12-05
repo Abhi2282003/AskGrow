@@ -25,12 +25,12 @@ let header = $(`
   <ul class="navbar-nav ml-auto" id = "navbar-content">
    <li class="nav-item nav-item-hover"><a class="nav-link" href="index.html">Home</a></li>
    <li class="nav-item nav-item-hover"><a class="nav-link" href="experience.html">Experience</a></li>
-   <li class="nav-item nav-item-hover"><a class="nav-link" href="projects.html">Services</a></li>
-   <li class="nav-item nav-item-hover"><a class="nav-link" href="travel_temp.html">Branches</a></li>
+   <li class="nav-item nav-item-hover"><a class="nav-link" href="services.html">Services</a></li>
+   <li class="nav-item nav-item-hover"><a class="nav-link" href="branches.html">Branches</a></li>
    
    
-   <li class="nav-item nav-item-hover"><a class="nav-link" href="reference.html">Team</a></li>
-   <li class="nav-item nav-item-hover"><a class="nav-link" href="event.html">Careers</a></li>
+   <li class="nav-item nav-item-hover"><a class="nav-link" href="team.html">Team</a></li>
+   <li class="nav-item nav-item-hover"><a class="nav-link" href="career.html">Careers</a></li>
    
    <li class="nav-item nav-item-hover"><a class="nav-link" href="blog.html" >Blogs</a></li>
    <li class="nav-item nav-item-hover"><a class="nav-link" href="techstack.html">Contact</a></li>
