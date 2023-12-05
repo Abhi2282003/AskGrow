@@ -45,7 +45,14 @@ const references = [
     designation1 : "Mentor",
     image1 : "assets/images/travel/trip1/5.jpg",
     message1 : "Has deep knowledge about Corporate Law compliance's, IPR consulting, Due-Diligence, Business organizations. 10+ yrs Experience in Banking and NBFC sector Running two ventures of financial consultancy.Expert in project loans and SMEG loans",
-}
+
+     sl2:6,
+        name2 : "",
+        designation2 : "",
+        image2 : "assets/images/favicon.png",
+        message2 : "",
+        
+   }
   
 ];
 
